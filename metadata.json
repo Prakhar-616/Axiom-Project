@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Verify — Active Counter-Disinformation & Forensic Defense",
+  "description": "End-to-end multimodal deepfake audit, dynamic fact-verification, multi-signal fusion, automated legal enforcement, and public counter-messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
